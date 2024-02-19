@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 clap = { version = "4.0", features = ["derive"] }
 ethers = "2.0.13"
+ethers-contract = "2.0.13"
+ethers-providers = "2.0.13"
